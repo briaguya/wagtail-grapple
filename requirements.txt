@@ -1,6 +1,6 @@
 Django>=2.2,<2.3
 wagtail>=2.5,<2.9
-graphene-django>=2.7.1
+graphene-django>=2.7
 channels==1.1.8
 asgi_redis
 graphql_ws
